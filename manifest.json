@@ -1,16 +1,16 @@
 {
     "tutorials": [
         {
-            "title": "Introduction to ADB Dedicated for Security Administrators",
-            "description": "Introduction to ADB Dedicated for Security Administrators",
+            "title": "Introduction to Oracle Cloud Infrastructure",
+            "description": "Introduction to Oracle Cloud Infrastructure",
             "partnumber": "Ennnnn_01",
             "publisheddate": "03/10/2020",
             "contentid": "12nnnn",
             "filename": "./intro.md"
         },
         {
-            "title": "Lab 1: Protect Data With Database Vault",
-            "description": "Protecting your data with Database Vault",
+            "title": "Lab 1: Install APEX on DBCS and Deploy ORDS",
+            "description": "Install APEX on DBCS and Deploy ORDS",
             "partnumber": "Ennnnn_01",
             "publisheddate": "04/01/2020",
             "contentid": "12nnnn",
