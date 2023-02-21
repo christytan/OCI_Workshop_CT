@@ -19,7 +19,7 @@ Watch the video below for an overview of Oracle Cloud Infrastructure.
 
 
 ## Workshop Objectives
-This set of hands-on-labs is designed to assist Oracle cloud Infrascture customer with setting up and using various cloud services of the **Autonomous Database on dedicate. The labs address application development and data integration aspects ranging from custom apex development, ODI and GoldenGate realtime data integration.
+This set of hands-on-labs is designed to assist Oracle cloud Infrascture customer with setting up and using various cloud services. The labs address application development and data integration aspects ranging from custom apex development, ODI and GoldenGate realtime data integration.
 
 ## Prerequisites
 This workshop requires the Oracle Cloud Infrastructure Environment and OCI tenancy access.
